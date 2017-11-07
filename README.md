@@ -5,3 +5,4 @@ Adjust and manipluate HTML5 player when using own design. Saves and updates curr
  * Structure the application to plugin.
  * Get rid of jQuery.
  * Add posibility with more than one track.
+ * Add hash to identify current track.
